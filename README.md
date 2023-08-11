@@ -1,10 +1,15 @@
 # SQL_HR_PROJECT
 
+# Description
+
+The aim of this project is to analyze Human Resources (HR) dataset and extract insights that will assist company leadership in making informed decisions.
+
+Resources
 1. Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
 2. Data Cleaning & Analysis - MySQL Workbench
 
-3. Data Visualization - Excel
+3. Data Visualization - MS Excel
 
 
 
@@ -27,7 +32,7 @@ QUESTIONS
 
 
 
-Summary of Findings
+Summary of Findings and insight.
 1.	The gender distribution is skewed toward males, there are 821 more male than female and 8,430 more male than Non-Conforming gender in the company.
 2.	The largest racial group in the company is White with a count of 4,987 individuals. The Native Hawaiian or Other Pacific Islander has the lowest representation in the company (952).
 3.	 Among the five age groups created, the "25-34" age group is the most prevalent age group.The "55-64" age group has the least representation.
