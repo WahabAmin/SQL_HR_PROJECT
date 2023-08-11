@@ -5,6 +5,9 @@ Data - HR Data with over 22000 rows from the year 2000 to 2020.
 Data Cleaning & Analysis - MySQL Workbench
 Data Visualization - Excel
 
+
+
+
 QUESTIONS
 1. What is the gender breakdown of employees in the company?
 2. What is the race/ethnicity breakdown of employees in the company?
@@ -20,6 +23,9 @@ QUESTIONS
 12. Top 5 job titles with highest termination rate?
 13. Top 10 job titles with highest hiring rate?
 
+
+
+
 Summary of Findings
 1.	The gender distribution is skewed toward males, there are 821 more male than female and 8,430 more male than Non-Conforming gender in the company.
 2.	The largest racial group in the company is White with a count of 4,987 individuals. The Native Hawaiian or Other Pacific Islander has the lowest representation in the company (952).
@@ -34,6 +40,9 @@ Summary of Findings
 11.	There is no clear pattern of increasing or decreasing terminations over time, there are periods when terminations seem to increase for a few consecutive years (e.g., 2003-2005 and 2015-2020)
 12.	Data Analyst recorded the highest termination rate among the top 5 job titles with highest termination rate in the company followed be research assistant II and I
 13.	Research Assistant II has the highest hiring rate followed by Business Analyst and HUman Resource Analyst.
+
+
+
 
 Limitations
 1. Some records had negative ages and these were excluded during querying(967 records). Ages used were 18 years and above.
