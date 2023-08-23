@@ -2,16 +2,23 @@
 
 # Description
 
-The aim of this project is to analyze Human Resources (HR) dataset and extract insights that will assist company leadership in making informed decisions.
+I am pleased to share my SQL data analysis project. 
 
-Resources
-1. Data - HR Data with over 22000 rows from the year 2000 to 2020.
+SITUATION 
 
-2. Data Cleaning & Analysis - MySQL Workbench
+AVON Corporation has recently experienced increased turnover rates and is concerned about the overall composition and dynamics of its workforce. The HR department recognizes the importance of data-driven decisions and has collected extensive data on employee demographics, hiring, terminations, and departmental performance. 
 
-3. Data Visualization - MS Excel
+OBJECTIVE
 
+The overarching goal is to provide actionable insights to the HR department and organizational leadership, enabling them to make informed decisions to improve employee retention, diversity, and overall workforce performance.
 
+TOOLS & APPROACH 
+
+MySQL, MS Excel, Canva and MS word.
+
+· MySQL - Concepts like Subqueries, Window functions, Numeric functions, Date functions, etc.
+· Excel - Visuals like Bar Chart, Line Chart, Donut Chart, etc.
+· Canva and Word - Slides creation, themes and colors, image editing etc.
 
 
 QUESTIONS
